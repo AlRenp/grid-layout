@@ -1,12 +1,12 @@
-<!-- # Portifolio
+# Portifolio
 
-> Esse projeto é um portifólio simples com o intuíto de dar visibilidade as minhas hábilidades. [Click to acess](https://alrenp.github.io/AlyssonRenan/)
+> Aprendendo o conceito de Grid de form [Click to acess](https://alrenp.github.io/AlyssonRenan/)
 
-### Sobre o Portifólio
+### Sobre o projeto
 
-- Sobre mim
-- Minhas Habilidades
-- Alguns projetos e estudos
+- Grid
+- Responsive
+- Filter
 
 ![preview](./.github/preview.png)
 > Page
@@ -15,7 +15,6 @@
 
 - HTML
 - CSS
-- Javascrip
 - GIT
 - GITHUB
 
@@ -23,4 +22,4 @@
 <div align="center">
 by:
  <a href="https://alrenp.github.io/AlyssonRenan/"> @4ysson </a>
-</div> -->
+</div>
